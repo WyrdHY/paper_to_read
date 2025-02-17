@@ -7,7 +7,7 @@ set LC_ALL=en_US.UTF-8
 set LANG=en_US.UTF-8
 
 :: Set the repository path to the new folder
-set REPO_PATH=C:\Users\Eric\Desktop\Paper_To_Read
+set REPO_PATH=C:\Users\EricY\Desktop\paper_to_read
 
 :: Navigate to the repository directory
 cd /d "%REPO_PATH%"
